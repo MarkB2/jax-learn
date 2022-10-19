@@ -17,5 +17,6 @@ d = { 'settings': { 'branch': 'master',
                                                                                        'jax_learn/datamodule.py'),
                                       'jax_learn.datamodule.Transform': ('datamodule.html#transform', 'jax_learn/datamodule.py'),
                                       'jax_learn.datamodule.Transform.__call__': ('datamodule.html#__call__', 'jax_learn/datamodule.py'),
+                                      'jax_learn.datamodule.Transform.__init__': ('datamodule.html#__init__', 'jax_learn/datamodule.py'),
                                       'jax_learn.datamodule.Transform.do': ('datamodule.html#do', 'jax_learn/datamodule.py'),
                                       'jax_learn.datamodule.noop': ('datamodule.html#noop', 'jax_learn/datamodule.py')}}}
